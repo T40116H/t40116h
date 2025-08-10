@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h1>Hello there 👋</h1>
+  <h1>Hello there...</h1>
   
   <pre>
 _/_/_/_/_/     _/  _/        _/        _/       _/        _/_/_/       _/    _/   
@@ -8,17 +8,11 @@ _/_/_/_/_/     _/  _/        _/        _/       _/        _/_/_/       _/    _/
   _/         _/_/_/_/    _/  _/      _/       _/      _/_/_/         _/_/_/_/     
  _/             _/      _/  _/      _/       _/      _/    _/       _/    _/      
 _/             _/        _/        _/       _/        _/_/         _/    _/       
-  </pre>
-  
-  <p><i>Welcome...</i></p>
-  
-</div>
-
 ---
 
 I'm someone who enjoys exploring code and creating things. Still figuring it all out, but having fun with the process.
 
-### Let's Connect
+### Let's Connect...
 
 Always open to learning from others and sharing what I've discovered. Feel free to reach out if you'd like to collaborate or just chat about tech!
 
